@@ -8,7 +8,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/spring-sonarqube-demo.git
+   git clone https://github.com/iammahesh123/SonorQube-integrate-with-spring.git
 2. Import the project into your preferred Integrated Development Environment (IDE).
 
 3. Ensure that SonarQube is running locally at http://localhost:9000. Adjust the SonarQube server URL if necessary.
